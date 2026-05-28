@@ -1,0 +1,16 @@
+node_modules
+dist
+.vite
+.env
+data.json
+.uploads
+.claude
+superpowers
+css
+js
+docs
+*.tar.gz
+*.png
+*.jpg
+聊天记录*
+下载*
